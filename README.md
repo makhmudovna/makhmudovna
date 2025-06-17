@@ -1,92 +1,95 @@
-# 👋 Hi, I'm makhmudovna
+# 👋 Hi, I'm Makhmudovna
 
 <div align="center">
-  <h3>📱 Flutter Developer</h3>
+  <h2>📱 Flutter Developer | 💙 Passionate about Crafting Mobile Experiences</h2>
 </div>
 
 ---
 
 ## 🚀 About Me
 
-- 📱 **Flutter Developer** - Specialized in cross-platform mobile development
-- 📍 **Location:** Tashkent, Uzbekistan  
-- 💙 **Passion:** Building beautiful mobile apps with Flutter & Dart
-- 🎯 **Goal:** Becoming a professional mobile app developer
-- 📚 **Currently Learning:** Advanced Flutter patterns & state management
+- 👩‍💻 **Flutter Developer** specializing in cross-platform mobile apps
+- 🌍 **Based in:** Tashkent, Uzbekistan  
+- 💡 **Passionate about:** Creating modern & responsive UIs with Flutter and Dart
+- 🎯 **Goal:** To become a top-tier professional in mobile app development
+- 📘 **Currently Learning:** Advanced Flutter patterns (Bloc, Riverpod) & Clean Architecture
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages & Frameworks:
+### 💻 Languages & Frameworks:
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-### Databases & Backend:
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-FF6B35?style=for-the-badge&logo=hive&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-25D366?style=for-the-badge&logo=rest&logoColor=white)
+### 🗄️ Databases & APIs:
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FDD835?style=for-the-badge&logo=hive&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20API-25D366?style=for-the-badge&logo=rest&logoColor=white)
 
-### DevOps & Tools:
+### ⚙️ Tools & IDEs:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karshimboyev&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karshimboyev&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karshimboyev&theme=radical&hide_border=true" height="150" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karshimboyev&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karshimboyev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karshimboyev&layout=compact&theme=radical&hide_border=true" height="150" />
 </div>
 
 ---
 
-
-
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karshimboyev&theme=github-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=karshimboyev&theme=gruvbox&no-frame=true&column=7" />
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
+## 🔥 Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karshimboyev&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karshimboyev&theme=github-dark&hide_border=true" />
 </div>
 
 ---
 
-## 📞 Connect With Me
+## 📬 Contact Me
 
 <div align="center">
-  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Makhmudovvvvna)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibragimovaogiljon95@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/makhmudovna)
-
+  <a href="https://t.me/Makhmudovvvvna">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ibragimovaogiljon95@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/makhmudovna">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <h3>💙 Flutter enthusiast | 🚀 Always learning | ⭐️ Star my repos if you find them useful!</h3>
+  <h4>✨ Thank you for visiting my profile!</h4>
+  <h4>⭐ Feel free to explore my projects and leave a star!</h4>
 </div>
 
----<div align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=karshimboyev&color=blue&style=for-the-badge" alt="Profile Views" />
 </div>
