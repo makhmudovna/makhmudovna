@@ -40,12 +40,12 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karshimboyev&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karshimboyev&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=makhmudovna&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=makhmudovna&theme=radical&hide_border=true" height="150" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karshimboyev&layout=compact&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makhmudovna&layout=compact&theme=radical&hide_border=true" height="150" />
 </div>
 
 ---
@@ -53,7 +53,21 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karshimboyev&theme=gruvbox&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=makhmudovna&theme=gruvbox&no-frame=true&column=7" />
+</div>
+
+---
+
+## 🔥 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=makhmudovna&theme=github-dark&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=makhmudovna&color=blue&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
