@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Farrux!
+# 👋 Hi, I'm makhmudovna
 
 <div align="center">
   <h3>📱 Flutter Developer</h3>
@@ -53,26 +53,8 @@
 
 ---
 
-## 🏆 Featured Projects
 
-### 📱 [Mobile App Name](https://github.com/karshimboyev/project-name)
-Zamonaviy Flutter ilovasi - Material Design 3 bilan
-- **Tech:** Flutter, Dart, Firebase
-- **Features:** State management, REST API, Push notifications
 
-### 🛒 [E-commerce App](https://github.com/karshimboyev/ecommerce-app)
-To'liq funksional onlayn do'kon ilovasi
-- **Tech:** Flutter, Bloc, SQLite
-- **Features:** Cart, Payment integration, User authentication
-
-### 🎵 [Music Player](https://github.com/karshimboyev/music-player)
-Minimal va chiroyli musiqa pleyer
-- **Tech:** Flutter, Provider, Audio plugins
-- **Features:** Playlist, Background play, Custom UI
-
----
-
-## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=karshimboyev&theme=github-dark&hide_border=true" alt="Contribution Graph" />
@@ -92,10 +74,10 @@ Minimal va chiroyli musiqa pleyer
 
 <div align="center">
   
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Makhmudovvvvna)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karshimboyev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibragimovaogiljon95@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/makhmudovna)
 
 </div>
 
